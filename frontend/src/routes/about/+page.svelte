@@ -10,8 +10,8 @@
       <div class="logo rev" style={`--image: url("${logoImage}")`}></div>
     </h1>
     <p>
-      We are a small team of children, dedicating our lives to making the shoe
-      market more profitable.
+      We are a small team of passionate builders, dedicating our lives to making
+      the shoe market more user friendly.
     </p>
   </div>
 </div>

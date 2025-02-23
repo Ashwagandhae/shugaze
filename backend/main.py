@@ -59,11 +59,11 @@ async def search(data: SearchRequest) -> list[Shoe]:
         df_uq["name"].str.lower().str.contains(search_term.lower(), na=False)
     ]
 
-    items = filtered_df.head(100)
+    items = filtered_df.head(10)
 
     ret = []
     for index, row in items.iterrows():
-        ret.append(ret.append(row_to_shoe))
+        ret.append(row_to_shoe(row))
     return ret
 
 
