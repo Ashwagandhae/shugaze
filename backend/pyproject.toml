@@ -5,8 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "faker>=36.1.1",
     "fastapi[standard]>=0.115.8",
     "openai>=1.64.0",
     "pandas>=2.2.3",
+    "playwright>=1.50.0",
     "scikit-learn>=1.6.1",
 ]
