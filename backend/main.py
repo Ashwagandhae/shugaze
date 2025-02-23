@@ -82,7 +82,7 @@ async def analyze(data: AnalyzeRequest) -> AnalyzeResponse:
     original_shoe = row_to_shoe(row)
 
     def get_shoes():
-        return get_similar_shoes(original_shoe.name)
+        return get_similar_shoes_test(original_shoe.name)
 
     similar_names = await asyncio.to_thread(get_shoes)
 
