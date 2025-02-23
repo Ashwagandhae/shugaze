@@ -2,7 +2,7 @@ import asyncio
 import random
 import time
 from playwright.async_api import async_playwright
-from faker import Faker
+from faker import Faker  # faker helps us scrape data more easily
 
 fake = Faker()
 
