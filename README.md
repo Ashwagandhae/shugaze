@@ -4,6 +4,8 @@
 
 A shoe price predictor that leverages generative AI with large language models and deep learning to help consumers save money when shopping.
 
+Made for Hacklytics 2025.
+
 ## Tech stack
 
 The frontend is written in `SvelteKit`, and uses `Material Icons`.
