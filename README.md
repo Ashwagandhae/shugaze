@@ -2,7 +2,7 @@
 
 ![Alt text](./screenshots/screenshot.png)
 
-A shoe price predictor that leverages generative AI with large language models and
+A shoe price predictor that leverages generative AI with large language models and deep learning to help consumers save money when shopping.
 
 ## Tech stack
 
