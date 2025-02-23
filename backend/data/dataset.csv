@@ -1,0 +1,767 @@
+id,time,name,size,price
+1,02/22/25 2:07 PM,New Balance 2002R,11,253
+2,02/22/25 1:02 PM,New Balance 2002R,8.5,153
+3,02/22/25 11:20 AM,New Balance 2002R,8.5,153
+4,02/22/25 9:23 AM,New Balance 2002R,10.5,231
+5,02/22/25 6:40 AM,New Balance 2002R,9.5,177
+6,02/22/25 6:40 AM,New Balance 2002R,9.5,177
+7,02/22/25 2:13 AM,New Balance 2002R,11,302
+8,02/22/25 12:14 AM,New Balance 2002R,11,301
+9,02/21/25 10:58 PM,New Balance 2002R,5.5,156
+10,02/21/25 10:06 PM,New Balance 2002R,6,153
+11,02/21/25 7:32 PM,New Balance 2002R,9,167
+12,02/21/25 4:27 PM,New Balance 2002R,7.5,165
+13,02/21/25 4:08 PM,New Balance 2002R,4,120
+14,02/21/25 1:32 PM,New Balance 2002R,11,301
+15,02/21/25 1:12 PM,New Balance 2002R,10,212
+16,02/21/25 11:36 AM,New Balance 2002R,9.5,177
+17,02/21/25 6:21 AM,New Balance 2002R,9,227
+18,02/21/25 4:52 AM,New Balance 2002R,8.5,154
+19,02/20/25 11:47 PM,New Balance 2002R,9,182
+20,02/20/25 11:02 PM,New Balance 2002R,7.5,165
+21,02/20/25 7:47 PM,New Balance 2002R,9.5,194
+22,02/20/25 7:34 PM,New Balance 2002R,9.5,175
+23,02/20/25 6:34 PM,New Balance 2002R,10,213
+24,02/20/25 4:14 PM,New Balance 2002R,7.5,165
+25,02/20/25 2:39 PM,New Balance 2002R,9.5,177
+26,02/20/25 2:13 PM,New Balance 2002R,4.5,154
+27,02/20/25 12:50 PM,New Balance 2002R,8.5,143
+28,02/20/25 12:46 PM,New Balance 2002R,7.5,165
+29,02/20/25 12:11 PM,New Balance 2002R,10,213
+30,02/20/25 10:39 AM,New Balance 2002R,11,225
+31,02/20/25 7:59 AM,New Balance 2002R,5.5,183
+32,02/20/25 6:39 AM,New Balance 2002R,8.5,155
+33,02/20/25 3:24 AM,New Balance 2002R,12,364
+34,02/20/25 2:59 AM,New Balance 2002R,8,238
+35,02/20/25 1:25 AM,New Balance 2002R,11,253
+36,02/20/25 1:10 AM,New Balance 2002R,8,157
+37,02/19/25 10:34 PM,New Balance 2002R,8,156
+38,02/19/25 9:40 PM,New Balance 2002R,9.5,177
+39,02/19/25 8:16 PM,New Balance 2002R,9,169
+40,02/19/25 7:10 PM,New Balance 2002R,8,156
+41,02/19/25 6:43 PM,New Balance 2002R,5.5,156
+42,02/19/25 6:38 PM,New Balance 2002R,7.5,160
+43,02/19/25 4:34 PM,New Balance 2002R,4,154
+44,02/19/25 4:13 PM,New Balance 2002R,8.5,157
+45,02/19/25 3:54 PM,New Balance 2002R,9.5,177
+46,02/19/25 3:49 PM,New Balance 2002R,11,329
+47,02/19/25 3:00 PM,New Balance 2002R,5,139
+48,02/19/25 2:20 PM,New Balance 2002R,9.5,194
+49,02/19/25 1:49 PM,New Balance 2002R,6.5,154
+50,02/21/25 9:15 PM,New Balance 574 ,8.5,57
+51,02/21/25 9:07 PM,New Balance 574 ,8.5,57
+52,02/20/25 4:54 PM,New Balance 574 ,6,79
+53,02/20/25 6:19 AM,New Balance 574 ,14,178
+54,02/19/25 8:49 PM,New Balance 574 ,9,50
+55,02/18/25 10:12 PM,New Balance 574 ,12,60
+56,02/17/25 9:35 AM,New Balance 574 ,9.5,66
+57,02/17/25 3:08 AM,New Balance 574 ,8,87
+58,02/17/25 12:19 AM,New Balance 574 ,9.5,64
+59,02/16/25 8:19 PM,New Balance 574 ,8.5,57
+60,02/16/25 1:46 AM,New Balance 574 ,10,60
+61,02/15/25 7:10 AM,New Balance 574 ,10,83
+62,02/13/25 3:31 PM,New Balance 574 ,9,56
+63,12/02/25 9:06 PM,New Balance 574 ,10,60
+64,12/02/25 11:49 AM,New Balance 574 ,9.5,58
+65,12/02/25 6:29 AM,New Balance 574 ,10.5,60
+66,11/02/25 10:13 PM,New Balance 574 ,11.5,68
+67,11/02/25 5:19 PM,New Balance 574 ,11,73
+68,11/02/25 12:45 PM,New Balance 574 ,13,80
+69,11/02/25 11:59 AM,New Balance 574 ,9,50
+70,10/02/25 8:44 PM,New Balance 574 ,9,50
+71,10/02/25 7:50 PM,New Balance 574 ,9,50
+72,10/02/25 3:27 PM,New Balance 574 ,9.5,70
+73,10/02/25 1:13 PM,New Balance 574 ,8.5,56
+74,10/02/25 11:46 AM,New Balance 574 ,6,81
+75,10/02/25 11:45 AM,New Balance 574 ,9,50
+76,09/02/25 9:28 PM,New Balance 574 ,10.5,60
+77,09/02/25 1:48 PM,New Balance 574 ,11,73
+78,09/02/25 11:22 AM,New Balance 574 ,8.5,63
+79,09/02/25 10:14 AM,New Balance 574 ,8,93
+80,08/02/25 3:45 PM,New Balance 574 ,9,56
+81,08/02/25 1:21 PM,New Balance 574 ,11.5,60
+82,07/02/25 4:55 PM,New Balance 574 ,13,70
+83,06/02/25 8:30 PM,New Balance 574 ,9.5,76
+84,06/02/25 6:20 PM,New Balance 574 ,8.5,60
+85,06/02/25 3:10 PM,New Balance 574 ,9.5,50
+86,05/02/25 8:18 PM,New Balance 574 ,9.5,65
+87,05/02/25 7:02 PM,New Balance 574 ,11,70
+88,05/02/25 5:31 PM,New Balance 574 ,11,70
+89,01/31/25 4:59 AM,New Balance 574 ,9,67
+90,01/29/25 3:34 PM,New Balance 574 ,10.5,71
+91,01/25/25 2:39 PM,New Balance 574 ,8,82
+92,01/24/25 7:59 AM,New Balance 574 ,9.5,69
+93,01/21/25 8:18 PM,New Balance 574 ,9,78
+94,01/19/25 11:38 AM,New Balance 574 ,10.5,70
+95,01/18/25 8:47 PM,New Balance 574 ,9,68
+96,01/18/25 10:51 AM,New Balance 574 ,8,79
+97,01/15/25 8:44 PM,New Balance 574 ,9.5,69
+98,01/14/25 7:24 PM,New Balance 574 ,10.5,72
+99,01/13/25 11:04 PM,New Balance 574 ,10,82
+100,02/22/25 1:45 PM,Nike Zoom Vomero,10.5,128
+101,02/22/25 1:14 PM,Nike Zoom Vomero,4,126
+102,02/22/25 1:03 PM,Nike Zoom Vomero,7.5,123
+103,02/22/25 12:12 PM,Nike Zoom Vomero,12,135
+104,02/22/25 11:38 AM,Nike Zoom Vomero,10.5,130
+105,02/22/25 11:20 AM,Nike Zoom Vomero,7,126
+106,02/22/25 11:18 AM,Nike Zoom Vomero,8,119
+107,02/22/25 10:48 AM,Nike Zoom Vomero,6.5,122
+108,02/22/25 10:36 AM,Nike Zoom Vomero,4.5,122
+109,02/22/25 9:09 AM,Nike Zoom Vomero,5.5,126
+110,02/22/25 8:08 AM,Nike Zoom Vomero,6,123
+111,02/22/25 7:36 AM,Nike Zoom Vomero,7,126
+112,02/22/25 6:51 AM,Nike Zoom Vomero,7.5,121
+113,02/22/25 3:43 AM,Nike Zoom Vomero,6.5,136
+114,02/22/25 3:24 AM,Nike Zoom Vomero,6.5,136
+115,02/22/25 2:34 AM,Nike Zoom Vomero,5,124
+116,02/22/25 1:39 AM,Nike Zoom Vomero,8,119
+117,02/22/25 1:25 AM,Nike Zoom Vomero,7,127
+118,02/22/25 12:46 AM,Nike Zoom Vomero,7,127
+119,02/21/25 11:40 PM,Nike Zoom Vomero,9.5,102
+120,02/21/25 10:55 PM,Nike Zoom Vomero,6.5,122
+121,02/21/25 10:46 PM,Nike Zoom Vomero,4,128
+122,02/21/25 10:39 PM,Nike Zoom Vomero,3.5,137
+123,02/21/25 10:21 PM,Nike Zoom Vomero,6,124
+124,02/21/25 10:19 PM,Nike Zoom Vomero,6,123
+125,02/21/25 9:44 PM,Nike Zoom Vomero,4.5,122
+126,02/21/25 9:43 PM,Nike Zoom Vomero,7,136
+127,02/21/25 9:12 PM,Nike Zoom Vomero,3.5,137
+128,02/21/25 9:11 PM,Nike Zoom Vomero,9.5,102
+129,02/21/25 8:46 PM,Nike Zoom Vomero,5.5,136
+130,02/21/25 8:45 PM,Nike Zoom Vomero,6.5,121
+131,02/21/25 8:45 PM,Nike Zoom Vomero,6,123
+132,02/21/25 6:23 PM,Nike Zoom Vomero,7,125
+133,02/21/25 6:08 PM,Nike Zoom Vomero,8.5,125
+134,02/21/25 5:47 PM,Nike Zoom Vomero,4,126
+135,02/21/25 5:47 PM,Nike Zoom Vomero,9,114
+136,02/21/25 5:45 PM,Nike Zoom Vomero,5.5,126
+137,02/21/25 5:43 PM,Nike Zoom Vomero,7,136
+138,02/21/25 5:37 PM,Nike Zoom Vomero,5.5,135
+139,02/21/25 5:01 PM,Nike Zoom Vomero,11,140
+140,02/21/25 4:43 PM,Nike Zoom Vomero,6,134
+141,02/21/25 4:13 PM,Nike Zoom Vomero,8.5,102
+142,02/21/25 4:00 PM,Nike Zoom Vomero,4,128
+143,02/21/25 3:20 PM,Nike Zoom Vomero,7.5,100
+144,02/21/25 2:53 PM,Nike Zoom Vomero,4.5,121
+145,02/21/25 1:31 PM,Nike Zoom Vomero,4.5,121
+146,02/21/25 1:18 PM,Nike Zoom Vomero,6.5,122
+147,02/21/25 1:01 PM,Nike Zoom Vomero,6,125
+148,02/21/25 12:51 PM,Nike Zoom Vomero,5.5,121
+149,02/21/25 12:21 PM,Nike Zoom Vomero,7,125
+150,02/22/25 9:38 AM,Nike Air Max 90,9.5,680
+151,02/20/25 7:09 PM,Nike Air Max 90,10.5,605
+152,02/19/25 10:52 AM,Nike Air Max 90,9,1042
+153,02/19/25 2:49 AM,Nike Air Max 90,7.5,585
+154,02/18/25 10:25 AM,Nike Air Max 90,9,667
+155,02/14/25 2:07 PM,Nike Air Max 90,10,700
+156,02/13/25 7:43 PM,Nike Air Max 90,9.5,675
+157,12/02/25 12:16 AM,Nike Air Max 90,11,738
+158,08/02/25 2:35 PM,Nike Air Max 90,11.5,1695
+159,08/02/25 1:00 AM,Nike Air Max 90,8,674
+160,05/02/25 4:11 PM,Nike Air Max 90,11,731
+161,05/02/25 1:13 AM,Nike Air Max 90,7,520
+162,04/02/25 8:58 AM,Nike Air Max 90,10,1100
+163,02/02/25 3:30 PM,Nike Air Max 90,9.5,797
+164,01/31/25 12:20 PM,Nike Air Max 90,10,796
+165,01/31/25 11:44 AM,Nike Air Max 90,9,680
+166,01/26/25 3:09 AM,Nike Air Max 90,8,455
+167,01/24/25 6:02 PM,Nike Air Max 90,8.5,500
+168,01/22/25 3:36 PM,Nike Air Max 90,7,520
+169,01/21/25 11:15 AM,Nike Air Max 90,10.5,674
+170,01/17/25 11:05 AM,Nike Air Max 90,7.5,553
+171,01/16/25 12:15 PM,Nike Air Max 90,9.5,625
+172,01/14/25 1:29 PM,Nike Air Max 90,7,475
+173,12/01/25 12:23 PM,Nike Air Max 90,9.5,795
+174,10/01/25 9:33 PM,Nike Air Max 90,7,488
+175,10/01/25 1:56 PM,Nike Air Max 90,12,900
+176,08/01/25 4:31 PM,Nike Air Max 90,10,735
+177,08/01/25 8:30 AM,Nike Air Max 90,9,686
+178,07/01/25 2:15 AM,Nike Air Max 90,7.5,515
+179,06/01/25 4:26 PM,Nike Air Max 90,9,655
+180,06/01/25 11:59 AM,Nike Air Max 90,8,619
+181,02/01/25 2:15 PM,Nike Air Max 90,8.5,682
+182,12/30/24 4:00 AM,Nike Air Max 90,10,800
+183,12/30/24 2:57 AM,Nike Air Max 90,8.5,761
+184,12/29/24 5:11 AM,Nike Air Max 90,11,734
+185,12/28/24 12:51 PM,Nike Air Max 90,8,647
+186,12/27/24 9:07 PM,Nike Air Max 90,12,900
+187,12/26/24 9:55 AM,Nike Air Max 90,11,746
+188,12/23/24 7:56 PM,Nike Air Max 90,12,895
+189,12/23/24 4:28 PM,Nike Air Max 90,11.5,900
+190,12/23/24 12:05 PM,Nike Air Max 90,7,470
+191,12/22/24 2:48 AM,Nike Air Max 90,10.5,792
+192,12/20/24 12:17 PM,Nike Air Max 90,9.5,602
+193,12/20/24 7:07 AM,Nike Air Max 90,10.5,605
+194,12/18/24 5:46 PM,Nike Air Max 90,7,472
+195,12/18/24 7:48 AM,Nike Air Max 90,9,688
+196,12/17/24 8:55 PM,Nike Air Max 90,6.5,600
+197,12/17/24 6:18 PM,Nike Air Max 90,11,741
+198,12/17/24 3:16 AM,Nike Air Max 90,8.5,690
+199,12/16/24 6:23 AM,Nike Air Max 90,7,255
+200,02/22/25 2:29 PM,Asics Gel-Kayano,9.5,185
+201,02/22/25 2:24 PM,Asics Gel-Kayano,12,195
+202,02/22/25 2:24 PM,Asics Gel-Kayano,13,196
+203,02/22/25 1:09 PM,Asics Gel-Kayano,9.5,183
+204,02/22/25 12:44 PM,Asics Gel-Kayano,10.5,214
+205,02/22/25 11:58 AM,Asics Gel-Kayano,10,181
+206,02/22/25 11:45 AM,Asics Gel-Kayano,4.5,166
+207,02/22/25 11:11 AM,Asics Gel-Kayano,9.5,185
+208,02/22/25 9:39 AM,Asics Gel-Kayano,14,202
+209,02/22/25 5:47 AM,Asics Gel-Kayano,8,164
+210,02/22/25 5:46 AM,Asics Gel-Kayano,8,165
+211,02/22/25 2:47 AM,Asics Gel-Kayano,10,182
+212,02/22/25 1:54 AM,Asics Gel-Kayano,10.5,214
+213,02/22/25 12:59 AM,Asics Gel-Kayano,11,197
+214,02/21/25 11:25 PM,Asics Gel-Kayano,11,197
+215,02/21/25 10:42 PM,Asics Gel-Kayano,9,184
+216,02/21/25 7:54 PM,Asics Gel-Kayano,11,197
+217,02/21/25 7:38 PM,Asics Gel-Kayano,9,184
+218,02/21/25 7:34 PM,Asics Gel-Kayano,7.5,172
+219,02/21/25 7:04 PM,Asics Gel-Kayano,11,235
+220,02/21/25 5:07 PM,Asics Gel-Kayano,8,170
+221,02/21/25 2:49 PM,Asics Gel-Kayano,6,166
+222,02/21/25 12:48 PM,Asics Gel-Kayano,8,171
+223,02/21/25 11:56 AM,Asics Gel-Kayano,9,183
+224,02/21/25 11:51 AM,Asics Gel-Kayano,12,198
+225,02/21/25 11:10 AM,Asics Gel-Kayano,14,201
+226,02/21/25 10:39 AM,Asics Gel-Kayano,9.5,185
+227,02/21/25 9:53 AM,Asics Gel-Kayano,5,171
+228,02/21/25 9:19 AM,Asics Gel-Kayano,9.5,184
+229,02/21/25 9:01 AM,Asics Gel-Kayano,9.5,183
+230,02/21/25 8:31 AM,Asics Gel-Kayano,9,183
+231,02/21/25 8:27 AM,Asics Gel-Kayano,6,166
+232,02/21/25 8:17 AM,Asics Gel-Kayano,4.5,177
+233,02/21/25 6:58 AM,Asics Gel-Kayano,9.5,184
+234,02/21/25 5:46 AM,Asics Gel-Kayano,9.5,182
+235,02/21/25 5:13 AM,Asics Gel-Kayano,7,186
+236,02/21/25 5:08 AM,Asics Gel-Kayano,6,168
+237,02/21/25 3:36 AM,Asics Gel-Kayano,10,182
+238,02/21/25 1:11 AM,Asics Gel-Kayano,11,280
+239,02/21/25 12:22 AM,Asics Gel-Kayano,10.5,197
+240,02/20/25 10:02 PM,Asics Gel-Kayano,10.5,212
+241,02/20/25 9:38 PM,Asics Gel-Kayano,8.5,179
+242,02/20/25 9:22 PM,Asics Gel-Kayano,9.5,249
+243,02/20/25 8:37 PM,Asics Gel-Kayano,6,165
+244,02/20/25 8:32 PM,Asics Gel-Kayano,10,182
+245,02/20/25 7:41 PM,Asics Gel-Kayano,6.5,173
+246,02/20/25 7:14 PM,Asics Gel-Kayano,9.5,183
+247,02/20/25 7:12 PM,Asics Gel-Kayano,8.5,179
+248,02/20/25 7:03 PM,Asics Gel-Kayano,9,178
+249,02/20/25 6:57 PM,Asics Gel-Kayano,10,181
+250,02/22/25 12:55 PM,Adidas Yeezy Boost 700,4,74
+251,02/22/25 11:27 AM,Adidas Yeezy Boost 700,9,89
+252,02/22/25 9:55 AM,Adidas Yeezy Boost 700,9.5,91
+253,02/22/25 6:55 AM,Adidas Yeezy Boost 700,9,88
+254,02/22/25 12:33 AM,Adidas Yeezy Boost 700,10,89
+255,02/21/25 11:53 PM,Adidas Yeezy Boost 700,9.5,91
+256,02/21/25 11:03 PM,Adidas Yeezy Boost 700,8,95
+257,02/21/25 9:33 PM,Adidas Yeezy Boost 700,13.5,153
+258,02/21/25 8:34 PM,Adidas Yeezy Boost 700,10,93
+259,02/21/25 7:59 PM,Adidas Yeezy Boost 700,7,86
+260,02/21/25 7:44 PM,Adidas Yeezy Boost 700,9,88
+261,02/21/25 7:36 PM,Adidas Yeezy Boost 700,9.5,94
+262,02/21/25 7:12 PM,Adidas Yeezy Boost 700,8,91
+263,02/21/25 7:08 PM,Adidas Yeezy Boost 700,10,88
+264,02/21/25 4:56 PM,Adidas Yeezy Boost 700,5.5,75
+265,02/21/25 2:43 PM,Adidas Yeezy Boost 700,7,86
+266,02/21/25 12:45 PM,Adidas Yeezy Boost 700,5,69
+267,02/21/25 12:21 PM,Adidas Yeezy Boost 700,8.5,85
+268,02/21/25 11:42 AM,Adidas Yeezy Boost 700,7.5,88
+269,02/21/25 9:09 AM,Adidas Yeezy Boost 700,6,79
+270,02/21/25 3:04 AM,Adidas Yeezy Boost 700,8.5,85
+271,02/21/25 1:13 AM,Adidas Yeezy Boost 700,13,95
+272,02/20/25 9:16 PM,Adidas Yeezy Boost 700,8.5,90
+273,02/20/25 6:45 PM,Adidas Yeezy Boost 700,8.5,87
+274,02/20/25 5:04 PM,Adidas Yeezy Boost 700,7.5,88
+275,02/20/25 2:56 PM,Adidas Yeezy Boost 700,4.5,74
+276,02/20/25 2:46 PM,Adidas Yeezy Boost 700,4,85
+277,02/20/25 12:17 PM,Adidas Yeezy Boost 700,11.5,99
+278,02/20/25 10:30 AM,Adidas Yeezy Boost 700,10,104
+279,02/19/25 10:04 PM,Adidas Yeezy Boost 700,6,80
+280,02/19/25 6:54 PM,Adidas Yeezy Boost 700,8,95
+281,02/19/25 5:37 PM,Adidas Yeezy Boost 700,14,128
+282,02/19/25 12:28 PM,Adidas Yeezy Boost 700,11.5,108
+283,02/19/25 11:58 AM,Adidas Yeezy Boost 700,8.5,90
+284,02/19/25 9:37 AM,Adidas Yeezy Boost 700,7.5,95
+285,02/19/25 9:28 AM,Adidas Yeezy Boost 700,6.5,81
+286,02/19/25 9:17 AM,Adidas Yeezy Boost 700,10.5,125
+287,02/19/25 7:13 AM,Adidas Yeezy Boost 700,10.5,98
+288,02/18/25 10:55 PM,Adidas Yeezy Boost 700,7.5,90
+289,02/18/25 10:15 PM,Adidas Yeezy Boost 700,6,99
+290,02/18/25 6:44 PM,Adidas Yeezy Boost 700,6.5,80
+291,02/18/25 5:37 PM,Adidas Yeezy Boost 700,9,96
+292,02/18/25 3:42 PM,Adidas Yeezy Boost 700,5,83
+293,02/18/25 3:10 PM,Adidas Yeezy Boost 700,12.5,109
+294,02/18/25 12:56 PM,Adidas Yeezy Boost 700,9,80
+295,02/18/25 11:03 AM,Adidas Yeezy Boost 700,8,94
+296,02/18/25 7:15 AM,Adidas Yeezy Boost 700,8,94
+297,02/18/25 6:39 AM,Adidas Yeezy Boost 700,8,92
+298,02/18/25 12:25 AM,Adidas Yeezy Boost 700,7.5,101
+299,02/17/25 4:30 PM,Adidas Yeezy Boost 700,13.5,171
+300,06/21/24 12:07 AM,Nike Free RN 5.0 2020,10.5,160
+301,12/06/24 12:07 PM,Nike Free RN 5.0 2020,10.5,160
+302,10/25/23 2:12 PM,Nike Free RN 5.0 2020,10,105
+303,10/17/23 12:11 PM,Nike Free RN 5.0 2020,10,106
+304,08/19/23 7:16 AM,Nike Free RN 5.0 2020,7,108
+305,05/27/23 9:33 PM,Nike Free RN 5.0 2020,10.5,120
+306,12/12/22 6:47 AM,Nike Free RN 5.0 2020,10,100
+307,03/12/22 1:43 PM,Nike Free RN 5.0 2020,8,199
+308,09/21/22 9:21 PM,Nike Free RN 5.0 2020,10.5,94
+309,06/30/22 8:48 AM,Nike Free RN 5.0 2020,10,122
+310,06/15/22 4:07 AM,Nike Free RN 5.0 2020,7,91
+311,06/13/22 10:59 AM,Nike Free RN 5.0 2020,9.5,141
+312,10/05/22 11:15 AM,Nike Free RN 5.0 2020,11.5,84
+313,04/27/22 12:48 AM,Nike Free RN 5.0 2020,10.5,161
+314,12/31/21 1:52 PM,Nike Free RN 5.0 2020,8,204
+315,11/25/21 7:25 PM,Nike Free RN 5.0 2020,11,124
+316,11/16/21 1:18 PM,Nike Free RN 5.0 2020,9,140
+317,10/22/21 4:02 PM,Nike Free RN 5.0 2020,11.5,109
+318,10/10/21 1:32 AM,Nike Free RN 5.0 2020,8,151
+319,05/10/21 9:00 PM,Nike Free RN 5.0 2020,11.5,99
+320,06/28/21 5:21 PM,Nike Free RN 5.0 2020,8,132
+321,06/22/21 3:36 AM,Nike Free RN 5.0 2020,12,126
+322,11/06/21 1:30 PM,Nike Free RN 5.0 2020,9,133
+323,05/24/21 3:38 PM,Nike Free RN 5.0 2020,12,115
+324,05/18/21 6:22 PM,Nike Free RN 5.0 2020,10.5,383
+325,01/01/21 9:25 AM,Nike Free RN 5.0 2020,10.5,155
+326,04/12/20 7:19 PM,Nike Free RN 5.0 2020,9,106
+327,11/29/20 10:29 PM,Nike Free RN 5.0 2020,8.5,106
+328,08/30/20 10:02 AM,Nike Free RN 5.0 2020,10,136
+329,09/08/20 1:45 PM,Nike Free RN 5.0 2020,7.5,131
+330,05/27/24 7:36 PM,Nike Flex Experience RN 8,10.5,85
+331,01/01/24 5:25 PM,Nike Flex Experience RN 8,10.5,71
+332,10/16/23 7:40 PM,Nike Flex Experience RN 8,10.5,67
+333,06/17/23 11:13 AM,Nike Flex Experience RN 8,11,102
+334,04/13/23 9:49 AM,Nike Flex Experience RN 8,11,108
+335,06/02/23 1:19 AM,Nike Flex Experience RN 8,10,99
+336,04/11/22 6:02 PM,Nike Flex Experience RN 8,10.5,121
+337,08/21/22 8:43 PM,Nike Flex Experience RN 8,9.5,103
+338,08/19/22 6:19 PM,Nike Flex Experience RN 8,10.5,69
+339,08/18/22 5:35 PM,Nike Flex Experience RN 8,10.5,69
+340,08/18/22 3:34 AM,Nike Flex Experience RN 8,10,83
+341,10/08/22 6:04 AM,Nike Flex Experience RN 8,11,123
+342,07/20/22 2:03 PM,Nike Flex Experience RN 8,10.5,84
+343,05/19/22 8:52 PM,Nike Flex Experience RN 8,9.5,108
+344,01/04/22 10:04 AM,Nike Flex Experience RN 8,10,87
+345,02/18/25 10:13 PM,On Cloudswift 3,9,100
+346,02/15/25 2:19 AM,On Cloudswift 3,11,130
+347,09/02/25 2:39 PM,On Cloudswift 3,11,156
+348,01/01/25 10:21 PM,On Cloudswift 3,8,153
+349,12/15/24 6:15 AM,On Cloudswift 3,8,160
+350,12/12/24 12:48 PM,On Cloudswift 3,8.5,150
+351,11/28/24 11:20 AM,On Cloudswift 3,9,149
+352,11/23/24 3:24 PM,On Cloudswift 3,10,120
+353,05/11/24 8:58 PM,On Cloudswift 3,9.5,130
+354,10/22/24 7:30 PM,On Cloudswift 3,11,129
+355,10/17/24 12:29 PM,On Cloudswift 3,9.5,127
+356,06/10/24 8:45 PM,On Cloudswift 3,9,129
+357,09/28/24 3:54 AM,On Cloudswift 3,9,130
+358,09/26/24 8:49 AM,On Cloudswift 3,9.5,130
+359,09/23/24 10:46 AM,On Cloudswift 3,8.5,133
+360,04/09/24 10:50 AM,On Cloudswift 3,10,129
+361,02/09/24 4:25 PM,On Cloudswift 3,8.5,205
+362,08/18/24 7:32 PM,On Cloudswift 3,9,130
+363,08/17/24 10:21 PM,On Cloudswift 3,11.5,128
+364,08/14/24 4:16 PM,On Cloudswift 3,10.5,130
+365,08/14/24 10:09 AM,On Cloudswift 3,8,100
+366,09/08/24 5:51 PM,On Cloudswift 3,9.5,122
+367,07/26/24 2:34 AM,On Cloudswift 3,9.5,122
+368,07/25/24 12:57 PM,On Cloudswift 3,11.5,128
+369,07/17/24 6:56 PM,On Cloudswift 3,12,105
+370,07/16/24 7:43 PM,On Cloudswift 3,11,126
+371,07/14/24 11:31 PM,On Cloudswift 3,12,129
+372,03/07/24 3:16 AM,On Cloudswift 3,9.5,123
+373,06/28/24 12:20 AM,On Cloudswift 3,9,130
+374,06/19/24 11:20 PM,On Cloudswift 3,8,127
+375,06/19/24 4:20 PM,On Cloudswift 3,12,127
+376,06/13/24 8:14 AM,On Cloudswift 3,9.5,80
+377,06/06/24 12:35 PM,On Cloudswift 3,11,129
+378,06/06/24 12:34 PM,On Cloudswift 3,11,125
+379,02/06/24 7:33 AM,On Cloudswift 3,9,126
+380,05/31/24 9:33 AM,On Cloudswift 3,7.5,140
+381,05/24/24 11:54 AM,On Cloudswift 3,9,129
+382,05/23/24 1:17 PM,On Cloudswift 3,11.5,129
+383,05/20/24 7:05 PM,On Cloudswift 3,9.5,113
+384,05/19/24 4:12 PM,On Cloudswift 3,12,128
+385,05/19/24 11:51 AM,On Cloudswift 3,10.5,97
+386,05/18/24 6:11 PM,On Cloudswift 3,9.5,135
+387,05/16/24 5:44 AM,On Cloudswift 3,8.5,95
+388,05/15/24 9:02 PM,On Cloudswift 3,10.5,96
+389,05/13/24 1:15 AM,On Cloudswift 3,9.5,113
+390,10/05/24 10:57 PM,On Cloudswift 3,9.5,114
+391,10/05/24 2:53 PM,On Cloudswift 3,10.5,114
+392,04/05/24 5:03 PM,On Cloudswift 3,10.5,125
+393,04/18/24 1:04 PM,On Cloudswift 3,11.5,99
+394,04/18/24 10:25 AM,On Cloudswift 3,11.5,99
+395,02/22/25 1:43 PM,Adidas Adizero SL,12,134
+396,02/22/25 12:52 PM,Adidas Adizero SL,10,151
+397,02/22/25 9:14 AM,Adidas Adizero SL,8,128
+398,02/22/25 2:24 AM,Adidas Adizero SL,9.5,129
+399,02/21/25 7:05 AM,Adidas Adizero SL,10,153
+400,02/21/25 6:35 AM,Adidas Adizero SL,10,170
+401,02/21/25 4:20 AM,Adidas Adizero SL,12,134
+402,02/21/25 3:32 AM,Adidas Adizero SL,7.5,156
+403,02/20/25 11:21 PM,Adidas Adizero SL,10.5,135
+404,02/20/25 4:57 PM,Adidas Adizero SL,9.5,124
+405,02/20/25 4:57 PM,Adidas Adizero SL,10.5,124
+406,02/20/25 2:17 PM,Adidas Adizero SL,9.5,176
+407,02/20/25 10:17 AM,Adidas Adizero SL,9.5,129
+408,02/20/25 4:37 AM,Adidas Adizero SL,9.5,156
+409,02/19/25 5:55 PM,Adidas Adizero SL,14,127
+410,02/19/25 5:55 PM,Adidas Adizero SL,10,154
+411,02/19/25 5:52 PM,Adidas Adizero SL,8.5,133
+412,02/19/25 12:25 PM,Adidas Adizero SL,10,127
+413,02/19/25 1:09 AM,Adidas Adizero SL,10,157
+414,02/18/25 11:43 PM,Adidas Adizero SL,10.5,162
+415,02/18/25 11:15 PM,Adidas Adizero SL,9.5,167
+416,02/18/25 7:10 PM,Adidas Adizero SL,8,130
+417,02/18/25 6:13 PM,Adidas Adizero SL,8.5,133
+418,02/18/25 5:04 PM,Adidas Adizero SL,7.5,130
+419,02/18/25 2:17 PM,Adidas Adizero SL,11.5,140
+420,02/18/25 12:05 PM,Adidas Adizero SL,8,130
+421,02/18/25 11:36 AM,Adidas Adizero SL,10,147
+422,02/18/25 10:12 AM,Adidas Adizero SL,10,146
+423,02/18/25 9:40 AM,Adidas Adizero SL,8.5,133
+424,02/18/25 8:38 AM,Adidas Adizero SL,10.5,200
+425,02/18/25 12:17 AM,Adidas Adizero SL,10,159
+426,02/17/25 7:15 PM,Adidas Adizero SL,8.5,125
+427,02/17/25 3:56 PM,Adidas Adizero SL,12.5,184
+428,02/17/25 1:12 PM,Adidas Adizero SL,11.5,141
+429,02/17/25 1:08 PM,Adidas Adizero SL,9,133
+430,02/17/25 11:10 AM,Adidas Adizero SL,9.5,150
+431,02/17/25 5:32 AM,Adidas Adizero SL,11.5,141
+432,02/17/25 5:09 AM,Adidas Adizero SL,12.5,172
+433,02/17/25 4:51 AM,Adidas Adizero SL,9.5,150
+434,02/17/25 2:55 AM,Adidas Adizero SL,8,130
+435,02/17/25 2:11 AM,Adidas Adizero SL,10,167
+436,02/16/25 8:41 PM,Adidas Adizero SL,8,129
+437,02/16/25 7:13 PM,Adidas Adizero SL,11,138
+438,02/16/25 4:40 PM,Adidas Adizero SL,11,137
+439,02/16/25 2:16 PM,Adidas Adizero SL,9.5,150
+440,02/16/25 11:41 AM,Adidas Adizero SL,10,125
+441,02/16/25 1:03 AM,Adidas Adizero SL,10.5,167
+442,02/15/25 8:40 PM,Adidas Adizero SL,9.5,148
+443,02/15/25 6:06 PM,Adidas Adizero SL,11.5,140
+444,02/15/25 3:00 PM,Adidas Adizero SL,8.5,134
+445,12/19/24 5:52 PM,HOKA Mach 5,7,152
+446,06/11/24 6:50 PM,HOKA Mach 5,9.5,182
+447,10/15/24 10:53 AM,HOKA Mach 5,9,90
+448,08/20/24 12:40 PM,HOKA Mach 5,11,246
+449,07/20/24 3:36 AM,HOKA Mach 5,10,143
+450,05/27/24 12:31 PM,HOKA Mach 5,7.5,100
+451,05/19/24 5:07 PM,HOKA Mach 5,10.5,151
+452,05/14/24 6:10 PM,HOKA Mach 5,11,111
+453,04/26/24 8:40 AM,HOKA Mach 5,7,215
+454,03/03/24 10:56 PM,HOKA Mach 5,7.5,147
+455,02/18/24 12:34 PM,HOKA Mach 5,10.5,154
+456,12/01/24 5:49 AM,HOKA Mach 5,8,186
+457,09/01/24 11:31 PM,HOKA Mach 5,12,115
+458,12/22/23 3:44 PM,HOKA Mach 5,9,115
+459,12/21/23 8:21 PM,HOKA Mach 5,9.5,115
+460,10/10/23 6:59 AM,HOKA Mach 5,8.5,191
+461,05/10/23 12:02 PM,HOKA Mach 5,9.5,120
+462,04/28/23 9:15 AM,HOKA Mach 5,9.5,235
+463,11/23/22 3:56 PM,HOKA Mach 5,7,100
+464,11/11/22 2:47 AM,HOKA Mach 5,11,138
+465,03/10/22 10:09 AM,HOKA Mach 5,7.5,225
+466,07/21/22 10:05 PM,HOKA Mach 5,11,195
+467,02/22/25 2:13 PM,Adidas Samba OG,11,71
+468,02/22/25 1:41 PM,Adidas Samba OG,10,60
+469,02/22/25 1:04 PM,Adidas Samba OG,11,106
+470,02/22/25 12:09 PM,Adidas Samba OG,10,81
+471,02/22/25 10:48 AM,Adidas Samba OG,10.5,90
+472,02/22/25 10:42 AM,Adidas Samba OG,7.5,70
+473,02/22/25 9:49 AM,Adidas Samba OG,7.5,70
+474,02/22/25 6:01 AM,Adidas Samba OG,7,88
+475,02/22/25 5:32 AM,Adidas Samba OG,12,67
+476,02/22/25 5:30 AM,Adidas Samba OG,10.5,70
+477,02/22/25 1:39 AM,Adidas Samba OG,6,64
+478,02/22/25 1:27 AM,Adidas Samba OG,8,77
+479,02/22/25 12:53 AM,Adidas Samba OG,9.5,72
+480,02/22/25 12:15 AM,Adidas Samba OG,7.5,76
+481,02/21/25 11:59 PM,Adidas Samba OG,10.5,70
+482,02/21/25 11:43 PM,Adidas Samba OG,6,64
+483,02/21/25 10:06 PM,Adidas Samba OG,10.5,70
+484,02/21/25 9:53 PM,Adidas Samba OG,5.5,77
+485,02/21/25 8:43 PM,Adidas Samba OG,8,77
+486,02/21/25 8:13 PM,Adidas Samba OG,7,80
+487,02/21/25 8:11 PM,Adidas Samba OG,9.5,72
+488,02/21/25 7:29 PM,Adidas Samba OG,7,73
+489,02/21/25 7:13 PM,Adidas Samba OG,11,71
+490,02/21/25 6:37 PM,Adidas Samba OG,7.5,70
+491,02/21/25 6:35 PM,Adidas Samba OG,11,71
+492,02/21/25 6:26 PM,Adidas Samba OG,10.5,70
+493,02/21/25 6:10 PM,Adidas Samba OG,6,97
+494,02/21/25 6:08 PM,Adidas Samba OG,7.5,69
+495,02/21/25 5:13 PM,Adidas Samba OG,7,73
+496,02/21/25 5:09 PM,Adidas Samba OG,9.5,72
+497,02/21/25 4:55 PM,Adidas Samba OG,8,101
+498,02/21/25 3:30 PM,Adidas Samba OG,8.5,70
+499,02/21/25 3:09 PM,Adidas Samba OG,10,73
+500,02/21/25 3:04 PM,Adidas Samba OG,7,73
+501,02/21/25 2:29 PM,Adidas Samba OG,8,74
+502,02/21/25 1:47 PM,Adidas Samba OG,9,72
+503,02/21/25 1:29 PM,Adidas Samba OG,6,67
+504,02/21/25 1:03 PM,Adidas Samba OG,10.5,71
+505,02/21/25 11:02 AM,Adidas Samba OG,8.5,71
+506,02/21/25 10:34 AM,Adidas Samba OG,7.5,76
+507,02/21/25 9:59 AM,Adidas Samba OG,7.5,76
+508,02/21/25 8:24 AM,Adidas Samba OG,8.5,87
+509,02/21/25 7:03 AM,Adidas Samba OG,10.5,62
+510,02/21/25 7:03 AM,Adidas Samba OG,11,66
+511,02/21/25 5:47 AM,Adidas Samba OG,6.5,80
+512,02/21/25 4:56 AM,Adidas Samba OG,12,80
+513,02/21/25 1:17 AM,Adidas Samba OG,11,72
+514,02/20/25 11:15 PM,Adidas Samba OG,9,74
+515,02/20/25 10:59 PM,Adidas Samba OG,7,72
+516,02/20/25 9:31 PM,Adidas Samba OG,9,73
+517,02/21/25 9:15 PM,New Balance 574,8.5,57
+518,02/21/25 9:07 PM,New Balance 574,8.5,57
+519,02/20/25 4:54 PM,New Balance 574,6,79
+520,02/20/25 6:19 AM,New Balance 574,14,178
+521,02/19/25 8:49 PM,New Balance 574,9,50
+522,02/18/25 10:12 PM,New Balance 574,12,60
+523,02/17/25 9:35 AM,New Balance 574,9.5,66
+524,02/17/25 3:08 AM,New Balance 574,8,87
+525,02/17/25 12:19 AM,New Balance 574,9.5,64
+526,02/16/25 8:19 PM,New Balance 574,8.5,57
+527,02/16/25 1:46 AM,New Balance 574,10,60
+528,02/15/25 7:10 AM,New Balance 574,10,83
+529,02/13/25 3:31 PM,New Balance 574,9,56
+530,02/12/25 9:06 PM,New Balance 574,10,60
+531,02/12/25 11:49 AM,New Balance 574,9.5,58
+532,02/12/25 6:29 AM,New Balance 574,10.5,60
+533,02/11/25 10:13 PM,New Balance 574,11.5,68
+534,02/11/25 5:19 PM,New Balance 574,11,73
+535,02/11/25 12:45 PM,New Balance 574,13,80
+536,02/11/25 11:59 AM,New Balance 574,9,50
+537,02/10/25 8:44 PM,New Balance 574,9,50
+538,02/10/25 7:50 PM,New Balance 574,9,50
+539,02/10/25 3:27 PM,New Balance 574,9.5,70
+540,02/10/25 1:13 PM,New Balance 574,8.5,56
+541,02/10/25 11:46 AM,New Balance 574,6,81
+542,02/10/25 11:45 AM,New Balance 574,9,50
+543,02/09/25 9:28 PM,New Balance 574,10.5,60
+544,02/09/25 1:48 PM,New Balance 574,11,73
+545,02/09/25 11:22 AM,New Balance 574,8.5,63
+546,02/09/25 10:14 AM,New Balance 574,8,93
+547,02/08/25 3:45 PM,New Balance 574,9,56
+548,02/08/25 1:21 PM,New Balance 574,11.5,60
+549,02/07/25 4:55 PM,New Balance 574,13,70
+550,02/06/25 8:30 PM,New Balance 574,9.5,76
+551,02/06/25 6:20 PM,New Balance 574,8.5,60
+552,02/06/25 3:10 PM,New Balance 574,9.5,50
+553,02/05/25 8:18 PM,New Balance 574,9.5,65
+554,02/05/25 7:02 PM,New Balance 574,11,70
+555,02/05/25 5:31 PM,New Balance 574,11,70
+556,01/31/25 4:59 AM,New Balance 574,9,67
+557,01/29/25 3:34 PM,New Balance 574,10.5,71
+558,01/25/25 2:39 PM,New Balance 574,8,82
+559,01/24/25 7:59 AM,New Balance 574,9.5,69
+560,01/21/25 8:18 PM,New Balance 574,9,78
+561,01/19/25 11:38 AM,New Balance 574,10.5,70
+562,01/18/25 8:47 PM,New Balance 574,9,68
+563,01/18/25 10:51 AM,New Balance 574,8,79
+564,01/15/25 8:44 PM,New Balance 574,9.5,69
+565,01/14/25 7:24 PM,New Balance 574,10.5,72
+566,01/13/25 11:04 PM,New Balance 574,10,82
+567,02/21/25 12:49 AM,Puma Suede Classic,8.5,55
+568,02/15/25 9:28 PM,Puma Suede Classic,10.5,44
+569,02/13/25 7:02 PM,Puma Suede Classic,11,34
+570,07/02/25 10:38 AM,Puma Suede Classic,12,43
+571,07/02/25 1:19 AM,Puma Suede Classic,8.5,55
+572,06/02/25 5:33 PM,Puma Suede Classic,13,36
+573,06/02/25 3:43 AM,Puma Suede Classic,10.5,46
+574,05/02/25 10:30 PM,Puma Suede Classic,10.5,45
+575,05/02/25 6:26 PM,Puma Suede Classic,9.5,96
+576,05/02/25 3:26 PM,Puma Suede Classic,11.5,30
+577,05/02/25 12:32 PM,Puma Suede Classic,9,58
+578,04/02/25 5:31 PM,Puma Suede Classic,11.5,27
+579,04/02/25 1:26 AM,Puma Suede Classic,11.5,25
+580,01/02/25 10:13 PM,Puma Suede Classic,9,58
+581,01/02/25 7:39 PM,Puma Suede Classic,9,57
+582,01/28/25 7:15 PM,Puma Suede Classic,10.5,50
+583,01/23/25 4:24 PM,Puma Suede Classic,9.5,100
+584,01/18/25 11:03 PM,Puma Suede Classic,9,49
+585,01/18/25 12:51 PM,Puma Suede Classic,13,35
+586,11/01/25 3:37 AM,Puma Suede Classic,11.5,20
+587,11/01/25 3:37 AM,Puma Suede Classic,12,30
+588,11/01/25 3:36 AM,Puma Suede Classic,11,36
+589,09/01/25 10:27 PM,Puma Suede Classic,8,55
+590,07/01/25 6:06 PM,Puma Suede Classic,10,53
+591,06/01/25 1:38 AM,Puma Suede Classic,10,42
+592,05/01/25 11:07 AM,Puma Suede Classic,13,38
+593,02/01/25 4:36 AM,Puma Suede Classic,11,88
+594,12/30/24 10:17 PM,Puma Suede Classic,10,51
+595,12/28/24 3:39 AM,Puma Suede Classic,12,34
+596,12/27/24 3:56 PM,Puma Suede Classic,11,47
+597,12/27/24 6:22 AM,Puma Suede Classic,9,49
+598,12/27/24 2:00 AM,Puma Suede Classic,11.5,28
+599,12/25/24 9:21 PM,Puma Suede Classic,6,72
+600,12/25/24 1:41 AM,Puma Suede Classic,11.5,35
+601,12/24/24 6:23 PM,Puma Suede Classic,13,38
+602,12/23/24 11:30 PM,Puma Suede Classic,12,34
+603,12/23/24 10:32 PM,Puma Suede Classic,12,33
+604,12/23/24 2:48 PM,Puma Suede Classic,12,32
+605,12/23/24 10:51 AM,Puma Suede Classic,8.5,54
+606,12/22/24 7:14 PM,Puma Suede Classic,6.5,108
+607,12/21/24 1:54 AM,Puma Suede Classic,11.5,30
+608,12/20/24 11:53 PM,Puma Suede Classic,11,33
+609,12/20/24 2:57 AM,Puma Suede Classic,13,38
+610,12/19/24 2:25 AM,Puma Suede Classic,11,33
+611,12/18/24 9:26 PM,Puma Suede Classic,12,33
+612,12/18/24 12:16 PM,Puma Suede Classic,9,37
+613,12/18/24 10:58 AM,Puma Suede Classic,10.5,49
+614,12/17/24 8:12 AM,Puma Suede Classic,11.5,25
+615,12/16/24 8:59 AM,Puma Suede Classic,11.5,25
+616,12/15/24 10:28 PM,Puma Suede Classic,6.5,108
+617,02/22/25 2:59 PM,Nike Cortez,9.5,111
+618,02/22/25 11:41 AM,Nike Cortez,10.5,116
+619,02/22/25 11:13 AM,Nike Cortez,10,113
+620,02/22/25 7:37 AM,Nike Cortez,9.5,111
+621,02/22/25 12:38 AM,Nike Cortez,11,118
+622,02/21/25 11:25 PM,Nike Cortez,10,135
+623,02/21/25 11:09 PM,Nike Cortez,10.5,115
+624,02/21/25 7:34 PM,Nike Cortez,12.5,161
+625,02/21/25 7:04 PM,Nike Cortez,10,110
+626,02/21/25 4:58 PM,Nike Cortez,10.5,116
+627,02/21/25 4:44 PM,Nike Cortez,10.5,116
+628,02/21/25 3:50 PM,Nike Cortez,7.5,122
+629,02/21/25 3:01 PM,Nike Cortez,11,117
+630,02/21/25 12:29 PM,Nike Cortez,12,115
+631,02/21/25 11:06 AM,Nike Cortez,7,125
+632,02/21/25 10:51 AM,Nike Cortez,12,124
+633,02/21/25 9:46 AM,Nike Cortez,10,125
+634,02/21/25 9:17 AM,Nike Cortez,12,117
+635,02/20/25 6:28 PM,Nike Cortez,10,118
+636,02/20/25 5:33 PM,Nike Cortez,11,105
+637,02/20/25 4:59 PM,Nike Cortez,12,119
+638,02/20/25 4:53 PM,Nike Cortez,15,207
+639,02/20/25 4:50 PM,Nike Cortez,3.5,197
+640,02/20/25 12:39 PM,Nike Cortez,6.5,136
+641,02/20/25 8:31 AM,Nike Cortez,10.5,118
+642,02/20/25 8:15 AM,Nike Cortez,13.5,166
+643,02/20/25 5:54 AM,Nike Cortez,13,126
+644,02/20/25 1:46 AM,Nike Cortez,11,110
+645,02/20/25 12:47 AM,Nike Cortez,9.5,111
+646,02/19/25 10:30 PM,Nike Cortez,11,110
+647,02/19/25 9:10 PM,Nike Cortez,9.5,111
+648,02/19/25 5:03 PM,Nike Cortez,9.5,145
+649,02/19/25 4:16 PM,Nike Cortez,10.5,101
+650,02/19/25 3:29 PM,Nike Cortez,11,120
+651,02/19/25 2:35 PM,Nike Cortez,13,127
+652,02/19/25 12:30 PM,Nike Cortez,7.5,137
+653,02/19/25 11:44 AM,Nike Cortez,12,118
+654,02/19/25 4:38 AM,Nike Cortez,5.5,160
+655,02/19/25 3:24 AM,Nike Cortez,10,141
+656,02/19/25 3:17 AM,Nike Cortez,10,128
+657,02/19/25 1:37 AM,Nike Cortez,7,119
+658,02/18/25 10:27 PM,Nike Cortez,9.5,112
+659,02/18/25 8:40 PM,Nike Cortez,12,118
+660,02/18/25 7:27 PM,Nike Cortez,8,105
+661,02/18/25 5:59 PM,Nike Cortez,11,129
+662,02/18/25 4:17 PM,Nike Cortez,9.5,112
+663,02/18/25 3:50 PM,Nike Cortez,8,149
+664,02/18/25 2:33 PM,Nike Cortez,10.5,108
+665,02/18/25 1:13 PM,Nike Cortez,9,110
+666,02/18/25 11:27 AM,Nike Cortez,15,235
+667,02/22/25 2:43 PM,Nike Dunk Low,12,67
+668,02/22/25 2:22 PM,Nike Dunk Low,10,64
+669,02/22/25 1:28 PM,Nike Dunk Low,12,81
+670,02/22/25 1:11 PM,Nike Dunk Low,11.5,70
+671,02/22/25 12:44 PM,Nike Dunk Low,8.5,70
+672,02/22/25 12:37 PM,Nike Dunk Low,6.5,96
+673,02/22/25 12:26 PM,Nike Dunk Low,11,67
+674,02/22/25 12:04 PM,Nike Dunk Low,13,68
+675,02/22/25 11:49 AM,Nike Dunk Low,9.5,80
+676,02/22/25 11:20 AM,Nike Dunk Low,11.5,68
+677,02/22/25 11:16 AM,Nike Dunk Low,9,62
+678,02/22/25 11:06 AM,Nike Dunk Low,12,67
+679,02/22/25 10:52 AM,Nike Dunk Low,9,62
+680,02/22/25 10:48 AM,Nike Dunk Low,12,67
+681,02/22/25 10:02 AM,Nike Dunk Low,8.5,60
+682,02/22/25 9:28 AM,Nike Dunk Low,10.5,88
+683,02/22/25 9:13 AM,Nike Dunk Low,9,64
+684,02/22/25 8:04 AM,Nike Dunk Low,15,76
+685,02/22/25 6:48 AM,Nike Dunk Low,9.5,69
+686,02/22/25 6:37 AM,Nike Dunk Low,11,70
+687,02/22/25 5:15 AM,Nike Dunk Low,11.5,68
+688,02/22/25 2:55 AM,Nike Dunk Low,13,65
+689,02/22/25 2:07 AM,Nike Dunk Low,9,58
+690,02/22/25 2:02 AM,Nike Dunk Low,11,70
+691,02/22/25 1:49 AM,Nike Dunk Low,11,69
+692,02/22/25 1:29 AM,Nike Dunk Low,7,80
+693,02/22/25 1:28 AM,Nike Dunk Low,9.5,79
+694,02/22/25 1:06 AM,Nike Dunk Low,10.5,88
+695,02/22/25 12:59 AM,Nike Dunk Low,9,64
+696,02/22/25 12:39 AM,Nike Dunk Low,13,68
+697,02/22/25 12:25 AM,Nike Dunk Low,13,68
+698,02/21/25 11:30 PM,Nike Dunk Low,10.5,88
+699,02/21/25 11:28 PM,Nike Dunk Low,11.5,67
+700,02/21/25 11:15 PM,Nike Dunk Low,12,66
+701,02/21/25 11:00 PM,Nike Dunk Low,7,98
+702,02/21/25 10:53 PM,Nike Dunk Low,10.5,72
+703,02/21/25 10:47 PM,Nike Dunk Low,7,80
+704,02/21/25 10:45 PM,Nike Dunk Low,14,82
+705,02/21/25 10:08 PM,Nike Dunk Low,12,77
+706,02/21/25 9:38 PM,Nike Dunk Low,12,66
+707,02/21/25 9:37 PM,Nike Dunk Low,11.5,70
+708,02/21/25 9:36 PM,Nike Dunk Low,8,68
+709,02/21/25 8:57 PM,Nike Dunk Low,9,62
+710,02/21/25 8:44 PM,Nike Dunk Low,10,68
+711,02/21/25 8:33 PM,Nike Dunk Low,10.5,73
+712,02/21/25 8:18 PM,Nike Dunk Low,9.5,69
+713,02/21/25 7:34 PM,Nike Dunk Low,10,68
+714,02/21/25 6:57 PM,Nike Dunk Low,6,75
+715,02/21/25 6:28 PM,Nike Dunk Low,13,67
+716,02/21/25 6:15 PM,Nike Dunk Low,11,78
+717,02/22/25 9:56 AM,Adidas Gazelle,5.5,52
+718,02/22/25 6:06 AM,Adidas Gazelle,4.5,57
+719,02/22/25 1:05 AM,Adidas Gazelle,11,112
+720,02/21/25 5:52 PM,Adidas Gazelle,7.5,67
+721,02/21/25 2:05 PM,Adidas Gazelle,10,82
+722,02/21/25 1:52 PM,Adidas Gazelle,6.5,100
+723,02/21/25 1:51 PM,Adidas Gazelle,8.5,93
+724,02/21/25 1:37 PM,Adidas Gazelle,4,62
+725,02/21/25 2:59 AM,Adidas Gazelle,6.5,67
+726,02/21/25 1:13 AM,Adidas Gazelle,7,87
+727,02/20/25 9:51 PM,Adidas Gazelle,8.5,94
+728,02/20/25 9:40 PM,Adidas Gazelle,7,84
+729,02/20/25 5:15 PM,Adidas Gazelle,4.5,57
+730,02/20/25 1:22 PM,Adidas Gazelle,9,91
+731,02/20/25 2:23 AM,Adidas Gazelle,5,74
+732,02/19/25 9:03 PM,Adidas Gazelle,6.5,68
+733,02/19/25 6:03 PM,Adidas Gazelle,7.5,67
+734,02/19/25 7:27 AM,Adidas Gazelle,9,90
+735,02/19/25 2:17 AM,Adidas Gazelle,11.5,122
+736,02/19/25 12:22 AM,Adidas Gazelle,4,63
+737,02/18/25 11:31 PM,Adidas Gazelle,9,91
+738,02/18/25 11:30 PM,Adidas Gazelle,5.5,87
+739,02/18/25 9:26 PM,Adidas Gazelle,5.5,63
+740,02/18/25 12:09 PM,Adidas Gazelle,5.5,53
+741,02/18/25 7:43 AM,Adidas Gazelle,6.5,87
+742,02/18/25 6:22 AM,Adidas Gazelle,5.5,52
+743,02/18/25 12:11 AM,Adidas Gazelle,6.5,68
+744,02/17/25 9:44 PM,Adidas Gazelle,6,93
+745,02/17/25 9:39 PM,Adidas Gazelle,4,64
+746,02/17/25 8:59 PM,Adidas Gazelle,8,82
+747,02/17/25 8:52 PM,Adidas Gazelle,5.5,52
+748,02/17/25 6:49 PM,Adidas Gazelle,10.5,140
+749,02/17/25 5:41 PM,Adidas Gazelle,4.5,57
+750,02/17/25 3:40 PM,Adidas Gazelle,5.5,52
+751,02/17/25 2:36 PM,Adidas Gazelle,5.5,52
+752,02/17/25 1:36 PM,Adidas Gazelle,6,88
+753,02/17/25 8:54 AM,Adidas Gazelle,5.5,52
+754,02/17/25 7:38 AM,Adidas Gazelle,11,123
+755,02/16/25 11:42 PM,Adidas Gazelle,6,73
+756,02/16/25 5:22 PM,Adidas Gazelle,7.5,69
+757,02/16/25 3:00 PM,Adidas Gazelle,7,85
+758,02/16/25 1:58 PM,Adidas Gazelle,4,65
+759,02/16/25 1:39 PM,Adidas Gazelle,5.5,52
+760,02/16/25 1:12 PM,Adidas Gazelle,9.5,108
+761,02/16/25 12:38 PM,Adidas Gazelle,5.5,52
+762,02/15/25 10:40 PM,Adidas Gazelle,7,84
+763,02/15/25 7:08 PM,Adidas Gazelle,6.5,69
+764,02/15/25 12:24 PM,Adidas Gazelle,6.5,68
+765,02/15/25 12:49 AM,Adidas Gazelle,7.5,71
+766,02/14/25 11:53 PM,Adidas Gazelle,3.5,104
